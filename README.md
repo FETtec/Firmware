@@ -1,2 +1,2 @@
-# ESC-Firmware
-FETtec ESC Firmware repository
+# Firmware
+This is the FETtec Firmware repository
